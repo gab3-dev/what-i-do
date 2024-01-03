@@ -8,3 +8,4 @@ Correção: retorna null caso algum componente do cartão esteja nulo, evitando 
 
 Correção: estava faltando o texto dos botões Ver Grade e Ver Lista no resources da tela de rotas(email do Cássio).
 
+Tela de Cartões: quase concluído os cartões da tela de operações.
