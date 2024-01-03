@@ -1,0 +1,10 @@
+Correção: o seguro é pintado de cinza caso o seguro não esteja vigente(o Yuri tinha realizado então mantive o método dele no merge).
+
+Correção: agora a seleção do card view pode ser usada na tela de seguros/rotas.
+
+Adicionado uma margem ao redor das informações dos cartões da tela de rotas.
+
+Correção: retorna null caso algum componente do cartão esteja nulo, evitando que dê erro quando não houver nada para ser exibido.
+
+Correção: estava faltando o texto dos botões Ver Grade e Ver Lista no resources da tela de rotas(email do Cássio).
+
