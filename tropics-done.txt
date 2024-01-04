@@ -11,3 +11,12 @@
 
 	Tela de Cartões: quase concluído os cartões da telade operações.
 }
+
+2024-01-04 {
+	Toda a classe que gerencia o modo de exibição foi reescrita.
+	Agora existe apenas um cookie para armazenar o modo de exibição em todas as telas.
+	Este cookie possui uma string com o nome da tela mais a sigla identificadora, caso modo grid, tela Embalagens, resultado: "twcadembl-G".
+	Caso a tela não tenha sido adicionada ao cookie, o gerenciador irá adiciona-lá, separando-a por um ";", exemplo: "twcadembl-G;twcadperl-C".
+	Este cookie possui 13 anos de validade.
+	Os usos dessa classe também foram atualizados.
+}
