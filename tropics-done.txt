@@ -20,3 +20,7 @@
 	Este cookie possui 13 anos de validade.
 	Os usos dessa classe também foram atualizados.
 }
+
+2024-01-05 {
+	Finalizado os cartões da tela de viagens.
+}
